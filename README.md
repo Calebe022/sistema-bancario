@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Depositar: O usuário pode depositar valores em sua conta. O sistema valida se o valor informado é positivo.<br>Sacar: O usuário pode realizar saques, mas com algumas restrições:<br>O valor do saque não pode ser maior que o saldo disponível.<br>O valor do saque não pode exceder o limite de R$ 500,00.<br>O número de saques é limitado a 3 por usuário.<br>Extrato: O usuário pode consultar um extrato com todas as transações realizadas, incluindo depósitos e saques. O sistema também exibe o saldo atual.<br>Sair: O usuário pode encerrar o sistema a qualquer momento.</p>
+<p align="left">* Depositar: O usuário pode depositar valores em sua conta. O sistema valida se o valor informado é positivo.<br>* Sacar: O usuário pode realizar saques, mas com algumas restrições:<br>O valor do saque não pode ser maior que o saldo disponível.<br>O valor do saque não pode exceder o limite de R$ 500,00.<br>O número de saques é limitado a 3 por usuário.<br>* Extrato: O usuário pode consultar um extrato com todas as transações realizadas, incluindo depósitos e saques. O sistema também exibe o saldo atual.<br>* Sair: O usuário pode encerrar o sistema a qualquer momento.</p>
 
 ###
 
