@@ -4,6 +4,8 @@
 
 <p align="left">Este é um sistema bancário simples desenvolvido como parte de um desafio do bootcamp de Python da DIO. O objetivo do sistema é permitir ao usuário realizar depósitos, saques e consultar o extrato de sua conta. Além disso, há diversas validações implementadas para garantir a integridade das operações.</p>
 
+<img src="https://assets.dio.me/wqFNFD1_7AKN1MpbZvurY1cUcpUXQ2ELMfW5Bi9R8VM/f:webp/h:120/q:80/L3RyYWNrcy9lN2MzZjVkNy0yMTEwLTQ3N2YtYmYxMS0wNjg3MjQzMjZjYzEucG5n" alt="Logo Bootcamp" width="220">
+
 ###
 
 <h3 align="left">Funcionalidades</h3>
